@@ -1,0 +1,9 @@
+
+
+BATCH_SIZE = 64
+EMBEDDING_SIZE = 64
+EPOCHS = 10
+LR = 0.1
+MODEL_PATH = "data/my_model.pth"
+STEP_SIZE = 1.0
+NUM_CLASS = 4
